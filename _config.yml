@@ -3,9 +3,9 @@ description: "Modular Food Production and Solar Power Plant Development"
 about: "Modular Food Production and Solar Power Plant Development"
 location: "Iowa City, Iowa, USA"
 email: bryan@pratherhuff.com
-baseurl: "/farms.casa/"
+baseurl: ""
 
-url: "https://bryandph.github.io" # replace by your site's url
+url: "farms.casa" # replace by your site's url
 twitter_username: "pratherhuff"
 github_username:  "bryandph"
 author: "Bryan Prather-Huff"
