@@ -51,11 +51,13 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jemoji
+  - cap
 
 whitelist:
   - jekyll-paginate
   - jekyll-gist
   - jemoji
+  - cap
 
 # exclude files
 exclude:
