@@ -155,13 +155,13 @@ a{
 }
 .my-mini-heading-sub{
     font-family: 'Share Tech Mono', monospace;
-    font-weight: normal;    
+    font-weight: normal;
     font-size: 14.5px;
 }
 .my-description{
     font-family: 'Share Tech Mono', monospace;
     font-size: 15;
-    color: #4db6ac;
+    color: black;
     margin-top: 50px;
 }
 .my-footer{
@@ -250,7 +250,7 @@ a{
     color: #ea8462;
 }
 .my-item{
-     font-family: 'Playfair Display', serif;    
+     font-family: 'Playfair Display', serif;
     font-size: 16px;
     margin-bottom: 40px;
 }
